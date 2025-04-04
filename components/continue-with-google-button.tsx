@@ -12,7 +12,6 @@ export default function ContinueWithGoogleButton() {
         auth?.loginWithGoogle();
       }}
       variant={"outline"}
-      className="bg-primary"
     >
       Continue With Google{" "}
     </Button>
